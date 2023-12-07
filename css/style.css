@@ -2346,3 +2346,7 @@ p {
   height: 60px;
   width: 60px;
 }
+
+.text-left {
+  text-align: left;
+}
