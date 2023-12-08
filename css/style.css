@@ -2329,7 +2329,7 @@ p {
 }
 
 .text-blue {
-  color: var(--primary);
+  color: var(--primary) !important;
 }
 
 .w-50 {
@@ -2349,4 +2349,12 @@ p {
 
 .text-left {
   text-align: left;
+}
+
+.px-200 {
+  padding: 0 200px;
+}
+
+.w-500 {
+  width: 500px;
 }
